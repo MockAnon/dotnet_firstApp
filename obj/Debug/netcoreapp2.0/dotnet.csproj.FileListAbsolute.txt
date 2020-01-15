@@ -1,0 +1,11 @@
+/Users/jevans/code/dotnet/bin/Debug/netcoreapp2.0/dotnet.deps.json
+/Users/jevans/code/dotnet/bin/Debug/netcoreapp2.0/dotnet.runtimeconfig.json
+/Users/jevans/code/dotnet/bin/Debug/netcoreapp2.0/dotnet.runtimeconfig.dev.json
+/Users/jevans/code/dotnet/bin/Debug/netcoreapp2.0/dotnet.dll
+/Users/jevans/code/dotnet/bin/Debug/netcoreapp2.0/dotnet.pdb
+/Users/jevans/code/dotnet/obj/Debug/netcoreapp2.0/dotnet.csprojResolveAssemblyReference.cache
+/Users/jevans/code/dotnet/obj/Debug/netcoreapp2.0/dotnet.csproj.CoreCompileInputs.cache
+/Users/jevans/code/dotnet/obj/Debug/netcoreapp2.0/dotnet.AssemblyInfoInputs.cache
+/Users/jevans/code/dotnet/obj/Debug/netcoreapp2.0/dotnet.AssemblyInfo.cs
+/Users/jevans/code/dotnet/obj/Debug/netcoreapp2.0/dotnet.dll
+/Users/jevans/code/dotnet/obj/Debug/netcoreapp2.0/dotnet.pdb
