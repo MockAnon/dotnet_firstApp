@@ -1,15 +1,10 @@
 ﻿<Properties StartupConfiguration="{30B65ABF-33AD-4A72-A102-0A4083CCD121}|Default">
   <MonoDevelop.Ide.ItemProperties.dotnet PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="OdeToFood.core/CuisineType.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OdeToFood.core/Restaurant.cs">
     <Files>
       <File FileName="Pages/About.cshtml" Line="9" Column="13" />
-      <File FileName="Pages/_Layout.cshtml" Line="40" Column="15" />
-      <File FileName="Pages/Restaurants/Index.cshtml" Line="1" Column="1" />
-      <File FileName="Pages/Restaurants/List.cshtml" Line="7" Column="15" />
-      <File FileName="Pages/Restaurants/List.cshtml.cs" Line="13" Column="46" />
-      <File FileName="appsettings.json" Line="6" Column="6" />
-      <File FileName="OdeToFood.core/Restaurant.cs" Line="7" Column="28" />
-      <File FileName="OdeToFood.core/CuisineType.cs" Line="1" Column="1" />
+      <File FileName="OdeToFood.core/CuisineType.cs" Line="11" Column="6" />
+      <File FileName="OdeToFood.core/Restaurant.cs" Line="28" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,8 +15,10 @@
                 <Node name="Restaurants" expanded="True" />
               </Node>
             </Node>
-            <Node name="OdeToFood.core" expanded="True">
-              <Node name="CuisineType.cs" selected="True" />
+            <Node name="OdeToFood.core" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
