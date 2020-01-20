@@ -14,7 +14,8 @@ namespace OdeToFood.core
             get; set;
         }
 
-        public string Name {
+        public string Name
+        {
             get; set;
         }
         public string Location
@@ -24,7 +25,9 @@ namespace OdeToFood.core
         public Restaurant()
         {
         }
-        public CuisineType Cuisine {
+        public CuisineType Cuisine
+        {
             get; set;
         }
+    }
 }
